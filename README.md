@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SimonVutov
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on the brackeys game jam
+- 👀 I’m interested in Unity, Competitive Coding, And Tech in General
+- 🌱 I’m currently learning about Competitive Coding and Mainly Use Java/Python, might learn C++ later
 - 📫 How to reach me Instagram: simonvutov
 
 <!---
