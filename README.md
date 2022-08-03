@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SimonVutov
-- 💻 Looking for work on Upwork
 - 👀 Interested in Unity, Competitive Coding, And Tech in General
-- 🌱 Currently learning about Competitive Coding and improving my Unity Skills
 - 📫 How to reach me Discord: Simon1#7550
 
 <!---
