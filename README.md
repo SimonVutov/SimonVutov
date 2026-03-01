@@ -3,7 +3,7 @@
 Computer Engineering student at the University of Waterloo.
 
 **Email:** [SimonVutov1@gmail.com](mailto:SimonVutov1@gmail.com)  
-**LinkedIn:** [linkedin.com/in/svutov](https://linkedin.com/in/svutov)
+**LinkedIn:** [linkedin.com/in/svutov](https://linkedin.com/in/svutov)  
 **Website:** [simonvutov.github.io](https://simonvutov.github.io/)
 
 <!---
