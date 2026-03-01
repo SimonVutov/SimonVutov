@@ -4,6 +4,7 @@ Computer Engineering student at the University of Waterloo.
 
 **Email:** [SimonVutov1@gmail.com](mailto:SimonVutov1@gmail.com)  
 **LinkedIn:** [linkedin.com/in/svutov](https://linkedin.com/in/svutov)
+**Website:** [simonvutov.github.io](https://simonvutov.github.io/)
 
 <!---
 SimonVutov/SimonVutov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
