@@ -4,8 +4,8 @@ Computer Engineering student at the University of Waterloo building reliable sys
 
 Currently:
 
-- Developing satellite firmware with [UW Orbital](https://www.uworbital.com/).
 - Studying computer architecture, Systems Programming and Concurrency, Discrete Mathematics and Logic, Probability Theory, Embedded Microprocessor Systems, and Signals and Systems at the University of Waterloo's Computer Engineering Program 2B term.
+- Developing satellite firmware with [UW Orbital](https://www.uworbital.com/).
 
 Selected work:
 
